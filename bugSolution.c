@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; *ptr = 20; printf("x (after modification): %d\n", x); // Prints 20, as expected.  The value of x is changed. return 0; }
