@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but common error in C programming: implicit pointer arithmetic. The provided code shows a simple example of assigning a value through a pointer.  The solution clarifies the behavior and importance of understanding memory management in C.
